@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-item, .publicidad {
+    height: 60vh !important;
+}
+
+.colores {
+    background-color: #03A2E8 !important;
+}
+
+.form-control {
+    width: 70%;
+}
+
+.form {
+    width: 60%;
+}
+
+.carrito{
+    color:white;
+    height: 50%;
+}
+
+.card {
+    height: 100%;
+}
+
+.footer div p {
+    color: white;
+}
+
+.alineacion div p {
+    text-align: center;
+}
